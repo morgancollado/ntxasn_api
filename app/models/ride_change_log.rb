@@ -1,0 +1,2 @@
+class RideChangeLog < ApplicationRecord
+end 
